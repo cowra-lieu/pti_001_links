@@ -118,7 +118,9 @@ Rekey Functionality at Checker Level
 1.60.8.25	FSC-RMS\Workspace\RMS-Web\WebContent\resources\BANKPT\js\common\lang\en_US\locallizationMsg.js
 1.3.8.29	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\common\lang\en_US\locallizationMsg.js
 1.2.8.21	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\common\common.js
-1.1.8.19	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\rms\limit.js
+1.1.8.20	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\rms\limit.js
+1.29.12.17	FSC-RMS\Workspace\RMS-Web\WebContent\resources\BANKPT\js\rms\limit.js
+1.1.2.15	FSC-RMS\Workspace\RMS-Web\WebContent\resources\SYSADM\js\rms\limit.js
 
 1.2.2.13	FSC-CDA\Workspace\CDA-Svc-User\src\com\pti\fsc\cda\services\cua\setlconf\vo\VoSetlconf.java
 
