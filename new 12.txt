@@ -1,0 +1,157 @@
+Fix issue #31612 Compatibility with JSON parsing in IE of earlier versions
+
+delete	FSC-POI\Workspace\POI-Web\WebContent\resources\default\js\common\json2.js
+
+1.1.2.21	FSC-POI\Workspace\POI-Web\WebContent\resources\default\js\common\wafjsaf.js
+
+1.8.4.46	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\custprofile\action\CustprofileAction.java
+
+delete	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\js\common\json2.js
+delete	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\js\common\json2.js
+
+1.1.2.6	FSC-POI\Workspace\POI-Web\WebContent\jsp\common\appJsConsole.jsp
+1.1.2.6	FSC-POI\Workspace\POI-Web\WebContent\jsp\common\popupParamsPoster.jsp
+1.18.4.30	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\edit.jsp
+1.12.4.25	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\search.jsp
+1.30.4.31	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\template.jsp
+1.6.4.25	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\edit_blank.jsp
+1.8.4.25	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\blank.jsp
+1.14.4.14	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\popup.jsp
+1.1.2.9	FSC-POI\Workspace\POI-Web\WebContent\jsp\template\securePopup.jsp
+1.1.2.20	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+1.1.2.37	FSC-POI\Workspace\POI-Web\WebContent\jsp\poi\pi\query\seller\include\sellerSearchCriteria.jsp
+1.1.2.20	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.7.10.10	FSC-POI\Workspace\POI-Web\WebContent\jsp\common\password\must_change_password.jsp
+1.1.38.4	FSC-POI\Workspace\POI-Web\WebContent\jsp\common\note\note_ack.jsp
+1.24.8.18	FSC-POI\Workspace\POI-Web\WebContent\jsp\signon.jsp
+1.5.8.9	FSC-POI\Workspace\POI-Web\WebContent\jsp\sso_signoff.jsp
+
+
+
+delete	FSC-CDA\Workspace\CDA-Web\WebContent\resources\SYSADM\js\common\json2.js
+1.1.2.21	FSC-CDA\Workspace\CDA-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.1.28.4	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\common\note\note_ack.jsp
+1.13.4.26	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\blank.jsp
+1.18.4.16	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\popup.jsp
+1.38.4.29	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\template.jsp
+1.23.4.29	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\edit.jsp
+1.10.4.25	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\edit_blank.jsp
+1.1.2.11	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\securePopup.jsp
+1.15.4.25	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\template\search.jsp
+1.9.12.10	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\common\password\must_change_password.jsp
+delete	FSC-CDA\Workspace\CDA-Web\WebContent\resources\default\js\common\json2.js
+1.1.2.22	FSC-CDA\Workspace\CDA-Web\WebContent\resources\default\js\common\wafjsaf.js
+1.5.10.10	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\sso_signoff.jsp
+1.34.4.22	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\signon.jsp
+1.1.2.6	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\common\appJsConsole.jsp
+1.1.2.8	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\common\popupParamsPoster.jsp
+delete	FSC-CDA\Workspace\CDA-Web\WebContent\resources\BANKPT\js\common\json2.js
+1.1.2.22	FSC-CDA\Workspace\CDA-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+
+
+
+1.7.8.10	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\common\password\must_change_password.jsp
+delete	FSC-RMS\Workspace\RMS-Web\WebContent\resources\SYSADM\js\common\json2.js
+1.1.2.5	FSC-RMS\Workspace\RMS-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.1.2.4	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\common\popupParamsPoster.jsp
+delete	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\common\json2.js
+1.1.2.5	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\common\wafjsaf.js
+1.1.2.9	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\companyAcctLookup\companyDefaultAcctLookup.jsp
+1.1.2.13	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\companyAcctLookup\companyAcctLookup.jsp
+1.12.8.21	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\popup.jsp
+1.25.8.30	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\edit.jsp
+1.11.8.26	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\search.jsp
+1.11.8.14	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\tree.jsp
+1.35.8.30	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\template.jsp
+1.1.2.12	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\securePopup.jsp
+1.16.8.24	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\blank.jsp
+1.9.8.25	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\template\edit_blank.jsp
+delete	FSC-RMS\Workspace\RMS-Web\WebContent\resources\BANKPT\js\common\json2.js
+1.1.2.5	FSC-RMS\Workspace\RMS-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+1.5.8.12	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\sso_signoff.jsp
+1.22.8.10	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\signon.jsp
+1.4.8.6	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\common\company\switch_company.jsp
+1.1.22.4	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\common\note\note_ack.jsp
+1.1.22.4	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\note\noteCreateClose.jsp
+
+
+
+
+1.1.2.5	FSC-CLS\Workspace\CLS-Web\WebContent\resources\default\js\common\wafjsaf.js
+delete	FSC-CLS\Workspace\CLS-Web\WebContent\resources\default\js\common\json2.js
+1.1.2.7	FSC-CLS\Workspace\CLS-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+delete	FSC-CLS\Workspace\CLS-Web\WebContent\resources\BANKPT\js\common\json2.js
+1.1.44.5	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\common\note\note_ack.jsp
+delete	FSC-CLS\Workspace\CLS-Web\WebContent\resources\SYSADM\js\common\json2.js
+1.1.2.5	FSC-CLS\Workspace\CLS-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.1.2.5	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\common\popupParamsPoster.jsp
+1.7.2.21	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\edit_blank.jsp
+1.9.2.21	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\blank.jsp
+1.1.2.9	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\securePopup.jsp
+1.13.2.22	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\search.jsp
+1.29.2.26	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\template.jsp
+1.12.2.16	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\popup.jsp
+1.19.2.26	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\template\edit.jsp
+1.5.4.12	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\sso_signoff.jsp
+1.27.4.13	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\signon.jsp
+
+
+
+1.5.10.12	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\sso_signoff.jsp
+1.27.12.12	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\signon.jsp
+1.34.12.29	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\template.jsp
+1.9.12.23	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\blank.jsp
+1.6.12.13	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\tree.jsp
+1.7.12.23	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\edit_blank.jsp
+1.8.12.24	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\search.jsp
+1.18.12.28	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\edit.jsp
+1.1.2.9	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\securePopup.jsp
+1.10.12.17	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\template\popup.jsp
+1.1.2.5	FSC-DMS\Workspace\DMS-Web\WebContent\resources\default\js\common\wafjsaf.js
+delete	FSC-DMS\Workspace\DMS-Web\WebContent\resources\default\js\common\json2.js
+1.1.2.5	FSC-DMS\Workspace\DMS-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+delete	FSC-DMS\Workspace\DMS-Web\WebContent\resources\BANKPT\js\common\json2.js
+1.1.2.4	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\common\popupParamsPoster.jsp
+1.1.2.5	FSC-DMS\Workspace\DMS-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+delete	FSC-DMS\Workspace\DMS-Web\WebContent\resources\SYSADM\js\common\json2.js
+1.1.28.4	FSC-DMS\Workspace\DMS-Web\WebContent\jsp\common\note\note_ack.jsp
+
+
+
+
+1.6.8.18	FSC\Workspace\FSC-Web\WebContent\jsp\template\blank.jsp
+1.8.8.14	FSC\Workspace\FSC-Web\WebContent\jsp\template\popup.jsp
+1.6.8.17	FSC\Workspace\FSC-Web\WebContent\jsp\template\search.jsp
+1.7.8.20	FSC\Workspace\FSC-Web\WebContent\jsp\template\edit.jsp
+1.13.8.21	FSC\Workspace\FSC-Web\WebContent\jsp\template\template.jsp
+1.4.8.18	FSC\Workspace\FSC-Web\WebContent\jsp\template\edit_blank.jsp
+1.1.2.4	FSC\Workspace\FSC-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+1.1.2.4	FSC\Workspace\FSC-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.1.2.4	FSC\Workspace\FSC-Web\WebContent\resources\default\js\common\wafjsaf.js
+
+
+
+
+1.9	FSC-API\Workspace\API-Web\WebContent\jsp\template\edit_blank.jsp
+1.9	FSC-API\Workspace\API-Web\WebContent\jsp\template\search.jsp
+1.9	FSC-API\Workspace\API-Web\WebContent\jsp\template\blank.jsp
+1.3	FSC-API\Workspace\API-Web\WebContent\jsp\template\tree.jsp
+1.8	FSC-API\Workspace\API-Web\WebContent\jsp\template\edit.jsp
+1.4	FSC-API\Workspace\API-Web\WebContent\jsp\template\securePopup.jsp
+1.5	FSC-API\Workspace\API-Web\WebContent\jsp\template\popup.jsp
+1.9	FSC-API\Workspace\API-Web\WebContent\jsp\template\template.jsp
+delete	FSC-API\Workspace\API-Web\WebContent\resources\default\js\common\json2.js
+1.3	FSC-API\Workspace\API-Web\WebContent\resources\default\js\common\wafjsaf.js
+1.3	FSC-API\Workspace\API-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+delete	FSC-API\Workspace\API-Web\WebContent\resources\BANKPT\js\common\json2.js
+delete	FSC-API\Workspace\API-Web\WebContent\resources\SYSADM\js\common\json2.js
+1.3	FSC-API\Workspace\API-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.2	FSC-API\Workspace\API-Web\WebContent\jsp\common\popupParamsPoster.jsp
+1.2	FSC-API\Workspace\API-Web\WebContent\jsp\signon.jsp
+1.2	FSC-API\Workspace\API-Web\WebContent\jsp\sso_signoff.jsp
+1.2	FSC-API\Workspace\API-Web\WebContent\jsp\common\note\note_ack.jsp
+
+
+
+
+
