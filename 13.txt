@@ -1,0 +1,12 @@
+31613 研究及进行iText.jar升级,整理影响功能(4.2版本)
+
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itextpdf.jar
+1.1.2.2	FSC-DMS\Workspace\DMS\lib\iText-version.txt
+1.8.10.6	FSC-DMS\Workspace\DMS-Svc\src\com\pti\fsc\dms\services\template\createtemplate\CreateTemplateByiText.java
+1.56.10.14	FSC-DMS\Workspace\DMS-Web\JavaSource\com\pti\fsc\dms\ui\templatedef\action\CreateTemplateAction.java
+
+1.1.2.1	FSC-RMS\Workspace\RMS\lib\itext-version.txt
+1.1.2.1	FSC-POI\Workspace\POI\lib\itext-version.txt
+1.1.2.1	FSC-CLS\Workspace\CLS\lib\itext-version.txt
+1.1.2.1	FSC-CDA\Workspace\CDA\lib\itext-version.txt
+
