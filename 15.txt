@@ -1,0 +1,11 @@
+solve issue #31764 upgrade of itext7 and refactor of related code
+
+1.56.10.15	FSC-DMS\Workspace\DMS-Web\JavaSource\com\pti\fsc\dms\ui\templatedef\action\CreateTemplateAction.java
+1.8.10.7	FSC-DMS\Workspace\DMS-Svc\src\com\pti\fsc\dms\services\template\createtemplate\CreateTemplateByiText.java
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itext7-io.jar
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itext7-version.txt
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itext7-layout.jar
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itext7-kernel.jar
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\itext7-forms.jar
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\slf4j-api.jar
+1.1.2.1	FSC-DMS\Workspace\DMS\lib\slf4j-version.txt

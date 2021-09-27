@@ -1,0 +1,22 @@
+Fix issues of popup dialog in IE5/7/8/9 compatible mode
+
+
+1.10.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\default\theme\zh_CN\fscs.css
+1.1.10.8	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\js\uit\scrolltable.js
+1.1.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\theme\default\fscs.css
+1.1.2.23	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\js\common\wafpopup.js
+1.1.2.21	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\js\common\wafjsaf.js
+1.1.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\theme\default\fscs.css
+1.1.6.8	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\js\uit\scrolltable.js
+1.1.2.23	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\js\common\wafpopup.js
+1.1.2.21	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\js\common\wafjsaf.js
+1.1.4.6	FSC-POI\Workspace\POI-Web\WebContent\jsp\poi\custprofile\poCommitmentConfig.jsp
+1.9.4.24	FSC-POI\Workspace\POI-Web\WebContent\resources\default\theme\en_US\fscs.css
+1.36.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\theme\zh_CN\fscs.css
+1.3.4.24	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\theme\en_US\fscs.css
+1.1.10.8	FSC-POI\Workspace\POI-Web\WebContent\resources\default\js\uit\scrolltable.js
+1.1.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\default\theme\default\fscs.css
+1.38.4.24	FSC-POI\Workspace\POI-Web\WebContent\resources\BANKPT\theme\en_US\fscs.css
+1.1.2.22	FSC-POI\Workspace\POI-Web\WebContent\resources\default\js\common\wafjsaf.js
+1.1.2.23	FSC-POI\Workspace\POI-Web\WebContent\resources\default\js\common\wafpopup.js
+1.4.4.22	FSC-POI\Workspace\POI-Web\WebContent\resources\SYSADM\theme\zh_CN\fscs.css

@@ -14,7 +14,6 @@ delete	FSC\Workspace\FSC-Common\src\com\pti\fsc\common\RekeyUtil.java
 1.1.2.5	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\cda\cua\companyacct\lookup\accountview\companyAcctViewChargeInfo.jsp
 1.1.2.4	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\cda\cua\companyacct\lookup\accountview\companyAcctViewDataInfo.jsp
 1.1.2.4	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\cda\cua\companyacct\lookup\accountview\companyAcctViewPayInfo.jsp
-1.3.2.14	FSC-CDA\Workspace\CDA-Web\WebContent\jsp\cda\cua\companyacct\lookup\companyAcctViewLookup.jsp
 
 
 1.2.2.21	FSC-CDA\Workspace\CDA-Svc-User\src\com\pti\fsc\cda\services\cua\companyacct\vo\VoCompanyAcct.java
@@ -30,12 +29,7 @@ delete	FSC\Workspace\FSC-Common\src\com\pti\fsc\common\RekeyUtil.java
 1.10.28.5	FSC-CLS\Workspace\CLS-Svc-Admin\src\com\pti\fsc\cls\services\custproduct\vo\VoUpdatedCustprodInt.java
 1.13.28.20	FSC-CLS\Workspace\CLS-Svc-Admin\src\com\pti\fsc\cls\services\product\vo\VoProdInt.java
 
------------ 1.1.2.5	FSC-CLS\Workspace\CLS-Web\JavaSource\com\pti\fsc\cls\common\ClsRekeyUtil.java
-
-1.19.22.14	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\int\aparIntListData.jsp
-1.40.4.27	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\int\aparIntVerify.jsp
 1.1.2.10	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\bbprofile\int\bbIntListData.jsp
-1.1.2.6	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\bbprofile\int\bbIntVerify.jsp
 1.32.22.9	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\custproduct\int\custProductIntListData.jsp
 1.36.4.10	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\custproduct\int\custProductIntVerify.jsp
 1.1.4.7	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\pfprofile\int\pfIntListData.jsp
@@ -45,15 +39,6 @@ delete	FSC\Workspace\FSC-Common\src\com\pti\fsc\common\RekeyUtil.java
 
 =======================================================================================================================================
 
-
-1.51.8.19	FSC-RMS\Workspace\RMS-Web\JavaSource\com\pti\fsc\rms\ui\limit\action\LimitAction.java
-
-1.30.8.16	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\inc\view.jsp
-1.26.8.18	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\inc\view2.jsp
-1.28.8.7	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\limitCreateVerify.jsp
-1.29.8.7	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\limitUpdateVerify.jsp
-
-1.32.10.18	FSC-RMS\Workspace\RMS-Svc\src\com\pti\fsc\rms\services\limit\vo\VoLimit.java
 1.46.18.36	FSC-RMS\Workspace\RMS-Common\src\com\pti\fsc\rms\common\RmsConstants.java
 
 =======================================================================================================================================
