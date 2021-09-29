@@ -58,3 +58,17 @@ delete	FSC\Workspace\FSC-Common\src\com\pti\fsc\common\RekeyUtil.java
 1.1.2.3	FSC-DMS\Workspace\DMS\lib\itext.jar
 1.1.2.3	FSC-POI\Workspace\POI\lib\itext.jar
 1.1.2.3	FSC-RMS\Workspace\RMS\lib\itext.jar
+
+========================================================================================================================================
+
+1.33.22.22	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\arprofile\arProfileUpdateVerify.jsp
+1.43.22.22	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\arprofile\arProfileView.jsp
+1.46.4.16	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\approfile\apProfileView.jsp
+1.37.4.14	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\approfile\apProfileUpdateVerify.jsp
+1.117.4.64	FSC-CLS\Workspace\CLS-Web\JavaSource\com\pti\fsc\cls\ui\aparprofile\action\APARProfileGridAction.java
+1.1.2.14	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\rpInt\aparRpIntListData.jsp
+1.1.2.16	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\rpInt\aparRpIntView.jsp
+1.1.2.17	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\rpInt\aparRpIntViewData.jsp
+1.1.2.21	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\rpInt\aparRpIntVerify.jsp
+1.1.2.17	FSC-CLS\Workspace\CLS-Web\WebContent\jsp\cls\aparprofile\arprofile\inverstor\subinterest\viewDetail.jsp
+

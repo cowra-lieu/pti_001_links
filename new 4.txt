@@ -3,7 +3,7 @@ Fix VA issue #31330
 1.22.6.36	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\asset\action\AssetGridAction.java
 1.18.8.11	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\credit\action\CreditGridAction.java
 1.71.4.22	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoice\action\InvoiceAction.java
-1.72.8.32	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoice\action\InvoiceGridAction.java
+1.72.8.33	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoice\action\InvoiceGridAction.java
 1.25.8.40	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoiceload\action\InvoiceloadGridAction.java
 1.27.4.21	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoiceload\action\InvoiceloadUploadAction.java
 1.17.28.16	FSC-POI\Workspace\POI-Web\JavaSource\com\pti\fsc\poi\ui\invoicepayload\action\InvoicepayloadGridAction.java
