@@ -1,0 +1,6 @@
+Fix issue of limit amount style and format
+
+1.26.8.19	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\inc\view2.jsp
+1.30.8.18	FSC-RMS\Workspace\RMS-Web\WebContent\jsp\rms\limit\inc\view.jsp
+1.1.8.23	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\rms\limit.js
+1.2.8.22	FSC-RMS\Workspace\RMS-Web\WebContent\resources\default\js\common\common.js
